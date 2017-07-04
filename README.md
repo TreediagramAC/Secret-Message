@@ -1,4 +1,4 @@
-#Vigenere-Cipher
+#CSE232 Project5
 
 Here is the project description.
 
